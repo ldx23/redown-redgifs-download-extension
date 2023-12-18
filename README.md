@@ -28,6 +28,6 @@ This process is the same for any local exension.
 
 ---
 ReDown is provided under a [GNU GPL v3.0 License](/LICENSE) \
-"Broken Download" icon has been taken from [Solar Icons set](https://www.figma.com/community/file/1166831539721848736/solar-icons-set) which is under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) \
+"Broken Download" icon has been taken from [Solar Icons set](https://www.figma.com/community/file/1166831539721848736/solar-icons-set) made by [480design](https://www.figma.com/@480design) which is under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) \
 "Volume" icon has been taken from [MingCute Icons set](https://github.com/Richard9394/MingCute) which is under a [Apache License 2.0](https://github.com/Richard9394/MingCute/blob/main/LICENSE) \
 All screenshots have been taken on Opera GX.
