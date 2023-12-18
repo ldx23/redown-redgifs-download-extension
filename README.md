@@ -27,6 +27,6 @@ This process is the same for any local exension.
 - fuck google <3
 
 ---
-"Broken Download" icon has been taken from [Solar Icons set](https://www.figma.com/community/file/1166831539721848736/solar-icons-set) which is under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
-"Volume" icon has been taken from [MingCute Icons set](https://github.com/Richard9394/MingCute) 
+"Broken Download" icon has been taken from [Solar Icons set](https://www.figma.com/community/file/1166831539721848736/solar-icons-set) which is under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) \
+"Volume" icon has been taken from [MingCute Icons set](https://github.com/Richard9394/MingCute) \
 All screenshots have been taken on Opera GX.
